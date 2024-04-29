@@ -6,6 +6,6 @@ This is a collection of my computational resources
 
 ### Plotting
 
-##Genomics
+## Genomics
 
 ## Python
